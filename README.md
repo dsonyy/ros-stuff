@@ -7,7 +7,7 @@ From the latest to the oldest:
 
 ## Resources
 - [Official ROS Wiki](http://wiki.ros.org/)
-- [Programming Robots in ROS](https://www.oreilly.com/library/view/programming-robots-with/9781449325480/)
+- [Programming Robots with ROS](https://www.oreilly.com/library/view/programming-robots-with/9781449325480/)
 
 	![Book cover](https://learning.oreilly.com/library/cover/9781449325480/250w/)
 
